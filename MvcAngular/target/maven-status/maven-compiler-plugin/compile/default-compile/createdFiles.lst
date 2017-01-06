@@ -1,0 +1,5 @@
+com\tuto\angular\model\User.class
+com\tuto\angular\service\UserService.class
+com\tuto\angular\serviceImpl\UserServiceImpl.class
+com\tuto\angular\controller\IndexController.class
+com\tuto\angular\controller\UserController.class
